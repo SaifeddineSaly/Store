@@ -1,0 +1,3 @@
+ | Phone            4        800$  |
+ | Laptop           1        320$  |
+ | Headphone        1        150$  |
